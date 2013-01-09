@@ -1,0 +1,1 @@
+        <h1><a href="../index.php">Sebastian Gumprich Photographie</a></h1>

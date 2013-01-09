@@ -23,16 +23,18 @@
     <div id="container"> 
       <!-- HEADER -->
       <header id="header">
-        <h1>Sebastian Gumprich Photographie</h1>
-        <hr>
+      <?php
+        include("/header.php");
+      ?>
       </header>
-      
+     </div> 
       <!-- CONTENT -->
       <div id="content" role="main">
     </div>
-    <footer>
+      <!-- FOOTER -->
+    <footer id="footer">
       <?php
-        include("./footer.php");
+        include("/footer.php");
       ?>
     </footer>
     
