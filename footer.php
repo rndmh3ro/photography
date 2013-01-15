@@ -1,4 +1,3 @@
-<hr>
 <ul>
 	<li>
 	<a href="../impressum/index.php">Impressum</a>
