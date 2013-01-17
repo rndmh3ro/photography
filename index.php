@@ -2,6 +2,8 @@
   <!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
   <!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
   <!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+  <!--[if lte IE 9]><link rel="stylesheet" href="resource/css/ie.css" type="text/css" media="screen" /><![endif]-->
+
  
   <head> 
     <meta charset="UTF-8"> 
@@ -13,52 +15,58 @@
     <meta name="description" content="Photographie-Blog" />
     
     <!-- STYLES -->
-    <link rel="stylesheet" href="resource/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:book">
-    <!-- MODERNIZR -->
-    <script src="resource/js/libs/modernizr.min.js"></script>
+
+<!-- The 1140px Grid - http://cssgrid.net/ -->
+<link rel="stylesheet" href="resource/css/1140.css" type="text/css" media="screen" />
+<!-- my styles -->
+<link rel="stylesheet" href="resource/css/style.css" type="text/css" media="screen" />
+<!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
+<script type="text/javascript" src="resource/js/css3-mediaqueries.js"></script>
+<!-- Webfotns -->
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:book">
+<!-- MODERNIZR -->
+<script src="resource/js/libs/modernizr.min.js"></script>
   </head>
 
   <body>
-    <div id="container"> 
       <!-- HEADER -->
         <div class="header">
       <header>
       <?php
-        include("/header.php");
+        include("header.php");
       ?>
       </header>
      </div> 
       <!-- CONTENT -->
-      <div id="content" role="main">
-        <p>
-        <div class="grid-1-3">
-          <img src="http://placekitten.com/200/300">
+    <div class="container"> 
+      <div class="row empty">
+        <div class="fourcol">
+          <a href="albums/grosser_garten/index.php"><img src="resource/images/Kunstwerk.png" /></a>
         </div>
-        <div class="grid-2-3" >
-          <img src="http://placekitten.com/200/300">
+                <div class="fourcol">
+          <a href="albums/grosser_garten/index.php"><img src="resource/images/Kunstwerk.png" /></a>
         </div>
-        <div class="grid-3-3">
-          <img src="http://placekitten.com/200/300">
-          </p>
-          <p>
-        </div>        
-        <div class="grid-1-3">
-          <img src="http://placekitten.com/200/300">
+                <div class="fourcol last">
+          <a href="albums/grosser_garten/index.php"><img src="resource/images/Kunstwerk.png" /></a>
         </div>
-        <div class="grid-2-3" >
-          <img src="http://placekitten.com/200/300">
+      </div>
+     <div class="row empty">
+        <div class="fourcol">
+          <a href="albums/grosser_garten/index.php"><img src="resource/images/Kunstwerk.png" /></a>
         </div>
-        <div class="grid-3-3">
-          <img src="http://placekitten.com/200/300">
+                <div class="fourcol">
+          <a href="albums/grosser_garten/index.php"><img src="resource/images/Kunstwerk.png" /></a>
         </div>
-        </p>
-       </div>
+                <div class="fourcol last">
+          <a href="albums/grosser_garten/index.php"><img src="resource/images/Kunstwerk.png" /></a>
+        </div>
+      </div>
+    </div>
       <!-- FOOTER -->
       <div class="footer">
     <footer>
       <?php
-        include("/footer.php");
+        include("footer.php");
       ?>
     </footer>
       </div>

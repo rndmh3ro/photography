@@ -3,10 +3,11 @@
 	<a href="../impressum/index.php">Impressum</a>
 	</li>
 	<li>
-		<a href="../kontakt/index.php">Kontakt</a>
+		<a href="mailto:sebastian.gumprich@38.de" title="Kontaktieren Sie mich per E-Mail">Kontakt</a>
+		
 	</li>
 	<li>
-		© 2013
+		© <?php echo date("Y"); ?>
 	</li>
 
 </ul>
