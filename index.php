@@ -43,7 +43,7 @@
       <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow grow" src="albums/grosser_garten/001.png" />
+            <img class="shadow" src="albums/grosser_garten/001.png" />
           </a>
           <figcaption class="caption">Großer Garten 2012</figcaption>
         </figure>
@@ -53,9 +53,9 @@
       <div class="sixcol last">
         <figure class="center">
           <a class="samelink" href="albums/ostsee/index.php">
-            <img class="shadow img" src="albums/ostsee/001.png" />
+            <img class="shadow" src="albums/ostsee/001.png" />
           </a>
-          <figcaption>Ostsee 2012</figcaption>
+          <figcaption class="caption">Ostsee 2012</figcaption>
         </figure>
       </div>
     </div>
