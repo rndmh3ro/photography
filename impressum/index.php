@@ -27,7 +27,7 @@
 </head>
 
 <body>
-  <div id="container"> 
+      <div class="wrap"> 
     <!-- HEADER -->
     <div class="header">
       <header>
@@ -37,7 +37,6 @@
       </header>
     </div> 
     <!-- CONTENT -->
-    <div class="container"> 
       <div class="row">
         <div class="threecol">
         </div>
@@ -53,13 +52,7 @@
         </div>
         <div class="threecol .last"></div>
       </div>
-      <div class="row">
-        <div class="threecol">
-        </div>
-        <div class="sixcol">
-        </div>
-        <div class="threecol .last"></div>
-      </div>
+      <div class="push"></div>
     </div>
     <!-- FOOTER -->
     <div class="footer">
@@ -69,7 +62,6 @@
         ?>
       </footer>
     </div>
-  </div>
   <!-- SCRIPTS -->
   <script src="http://code.jquery.com/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="../resource/js/libs/jquery-1.8.3.min.js">\x3C/script>')</script>

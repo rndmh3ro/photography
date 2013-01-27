@@ -29,6 +29,7 @@
 </head>
 
 <body>
+    <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
     <header>
@@ -38,7 +39,6 @@
     </header>
   </div> 
   <!-- CONTENT -->
-  <div class="container"> 
     <div class="row empty">
       <div class="sixcol">
         <figure class="center">
@@ -59,6 +59,7 @@
         </figure>
       </div>
     </div>
+    <div class="push"></div>
   </div>
   <!-- FOOTER -->
   <div class="footer">
