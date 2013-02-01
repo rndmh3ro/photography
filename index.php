@@ -28,7 +28,7 @@
   <script src="../resource/js/libs/modernizr.min.js"></script>
 </head>
 
-<body>
+<body >
     <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
@@ -39,7 +39,7 @@
     </header>
   </div> 
   <!-- CONTENT -->
-    <div class="row empty">
+    <div class="row empty fade_in">
       <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
