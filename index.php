@@ -41,7 +41,7 @@
       <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow" src="albums/grosser_garten/tn/IMG_5513.jpg" />
+            <img class="shadow" src="albums/grosser_garten/tn/tn_IMG_5513.jpg" />
           </a>
           <figcaption class="caption">Großer Garten 2012</figcaption>
         </figure>
