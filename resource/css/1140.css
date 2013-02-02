@@ -83,6 +83,14 @@ float: left;
 margin-right: 0px;
 }
 
+img, object, embed {
+max-width: 100%;
+}
+
+img {
+	height: auto;
+}
+
 
 /* Smaller screens */
 
