@@ -30,7 +30,7 @@
   <!-- JQuery -->
 </head>
 
-<body>
+<body class="fade_in">
   <script type="text/javascript">
   $(document).ready(function() {
     $(".fancybox").fancybox();
