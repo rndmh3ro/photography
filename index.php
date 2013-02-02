@@ -39,9 +39,9 @@
   <!-- CONTENT -->
    <div class="row empty">
       <div class="sixcol">
-        <figure class="center">
+        <figure class="">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow" src="albums/grosser_garten/tn/tn_IMG_5513.jpg" />
+            <img class="shadow front_image" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
           </a>
           <figcaption class="caption">Großer Garten 2012</figcaption>
         </figure>
