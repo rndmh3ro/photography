@@ -40,9 +40,7 @@
   <!-- CONTENT -->
     <div class="row empty">
       <div class="twelvecol">
-        <div class="center"><img src="tn/tn_IMG_5513.jpg"></div>
-        <div class="center"><img src="tn/tn_IMG_5514.jpg"></div>
-        <div class="center"><img src="tn/tn_IMG_5513.jpg"></div>
+        <div class="center thumb"><img src="tn/tn_IMG_5513.jpg"></div>
         <div class="center"><img src="tn/tn_IMG_5514.jpg"></div>
       </div>
       </div>
