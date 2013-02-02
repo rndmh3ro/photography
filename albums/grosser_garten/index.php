@@ -10,9 +10,13 @@
 
   <!-- TITLE -->
   <title>Sebastian Gumprich Photographie</title>
-
+  <script src="../../resource/js/libs/jquery-1.8.3.min.js"></script>
   <!-- META -->
   <meta name="description" content="Sebastian Gumprich Photographie" />
+  <!-- Fancybox -->
+  <link rel="stylesheet" href="../../resource/css/fancybox/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
+  <script type="text/javascript" src="../../resource/js/jquery.fancybox.pack.js?v=2.1.4"></script>
+  <!-- FONTS -->
   <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
   <!-- The 1140px Grid - http://cssgrid.net/ -->
   <link rel="stylesheet" href="../../resource/css/1140.css" type="text/css" media="screen" />
@@ -24,10 +28,14 @@
   <!-- MODERNIZR -->
   <script src="../../resource/js/libs/modernizr.min.js"></script>
   <!-- JQuery -->
-  <script src="../../resource/js/libs/jquery-1.8.3.min.js"></script>
 </head>
 
 <body>
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $(".fancybox").fancybox();
+  });
+</script>
     <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
@@ -39,9 +47,11 @@
   </div> 
   <!-- CONTENT -->
     <div class="row empty">
-      <div class="twelvecol">
-        <div class="center thumb"><img src="tn/tn_IMG_5513.jpg"></div>
-        <div class="center"><img src="tn/tn_IMG_5514.jpg"></div>
+      <div class="sixcol">
+        <div class="center"><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Girl in Dresden Grosser Garten" title="Girl in Dresden Grosser Garten"></a></div>
+      </div>
+      <div class="sixcol last">
+        <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="shadow thumb" src="tn/tn_IMG_5514.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
       </div>
       </div>
     </div>
