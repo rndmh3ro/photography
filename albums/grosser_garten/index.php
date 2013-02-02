@@ -13,19 +13,18 @@
 
   <!-- META -->
   <meta name="description" content="Sebastian Gumprich Photographie" />
-
-  <!-- STYLES -->
-
+  <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
   <!-- The 1140px Grid - http://cssgrid.net/ -->
   <link rel="stylesheet" href="../../resource/css/1140.css" type="text/css" media="screen" />
   <!-- my styles -->
   <link rel="stylesheet" href="../../resource/css/style.css" type="text/css" media="screen" />
   <!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
-  <script type="text/javascript" src="../../resource/js/css3-mediaqueries.js"></script>
-  <!-- Webfotns -->
-  <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="../../resource/js/libs/css3-mediaqueries.js"></script>
+  <!-- Webfonts -->
   <!-- MODERNIZR -->
   <script src="../../resource/js/libs/modernizr.min.js"></script>
+  <!-- JQuery -->
+  <script src="../../resource/js/libs/jquery-1.8.3.min.js"></script>
 </head>
 
 <body>
@@ -40,9 +39,11 @@
   </div> 
   <!-- CONTENT -->
     <div class="row empty">
-      <div class="sixcol">
+      <div class="twelvecol">
+        <div class="masonry_image"><img src="IMG_5513.jpg"></div>
+        <div class="masonry_image">...</div>
+        <div class="masonry_image">...</div>
       </div>
-      <div class="sixcol last">
       </div>
     </div>
     <div class="push"></div>
@@ -56,11 +57,6 @@
     </footer>
   </div>
 </div>
-<!-- SCRIPTS -->
-<script src="http://code.jquery.com/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="resource/js/libs/jquery-1.8.3.min.js">\x3C/script>')</script>
 <!--[if (gte IE 6)&(lte IE 8)]><script src="resource/js/libs/selectivizr.min.js"></script><![endif]-->
-<script src="../../resource/js/plugins.js"></script>
-<script src="../../resource/js/global.js"></script>
 </body>
 </html>
