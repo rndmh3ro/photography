@@ -41,7 +41,7 @@
       <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow" src="albums/grosser_garten/001.png" />
+            <img class="shadow" src="albums/grosser_garten/tn/IMG_5513.jpg" />
           </a>
           <figcaption class="caption">Großer Garten 2012</figcaption>
         </figure>
@@ -66,9 +66,6 @@
     </footer>
   </div>
 </div>
-<!-- SCRIPTS -->
-<script src="http://code.jquery.com/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="resource/js/libs/jquery-1.8.3.min.js">\x3C/script>')</script>
 <!--[if (gte IE 6)&(lte IE 8)]><script src="resource/js/libs/selectivizr.min.js"></script><![endif]-->
 </body>
 </html>
