@@ -39,7 +39,7 @@
   <!-- CONTENT -->
    <div class="row empty">
       <div class="sixcol">
-        <figure class="">
+        <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
             <img class="shadow front_image" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
           </a>
