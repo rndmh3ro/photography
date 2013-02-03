@@ -5,12 +5,10 @@
 <!--[if lte IE 9]><link rel="stylesheet" href="resource/css/ie.css" type="text/css" media="screen" /><![endif]-->
 
 <head> 
-  <script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
-  <meta charset="UTF-8"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
   <title>Sebastian Gumprich Photographie</title>
   <meta name="description" content="Sebastian Gumprich Photographie" />
   <script src="../../resource/js/libs/jquery-1.8.3.min.js"></script>
-  <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="../../resource/css/fancybox/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
   <script type="text/javascript" src="../../resource/js/jquery.fancybox.pack.js?v=2.1.4"></script>
   <link rel="stylesheet" href="../../resource/css/1140.css" type="text/css" media="screen" />
@@ -34,16 +32,21 @@
     </header>
   </div> 
   <!-- CONTENT -->
- 
   <div class="row empty">
       <div class="sixcol">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
+        <figure>
+           <div class="center"><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a>
+           </div>
+          <figcaption class="caption">by <a class="samelink" href="https://www.facebook.com/pages/Hobbyfotografie/493198650697175">Anke Fettke</a>
+          </figcaption>
+        </figure>
       </div>
       <div class="sixcol last">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="shadow thumb" src="tn/tn_IMG_5514.jpg" alt="Girl in Dresden Grosser Garten"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="shadow thumb" src="tn/tn_IMG_5514.jpg" alt="Girl in Dresden Grosser Garten"></a>
+        </div>
       </div>
     </div>
-    <div class="push"></div>
+   <div class="push"></div>
   </div>
   <!-- FOOTER -->
   <div class="footer">

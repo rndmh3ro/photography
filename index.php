@@ -8,7 +8,6 @@
   <meta charset="UTF-8"> 
   <title>Sebastian Gumprich Photographie</title>
   <meta name="description" content="Sebastian Gumprich Photographie" />
-  <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="../resource/css/1140.css" type="text/css" media="screen" />
   <link rel="stylesheet" href="../resource/css/style.css" type="text/css" media="screen" />
   <script type="text/javascript" src="../resource/js/libs/css3-mediaqueries.js"></script>
@@ -27,12 +26,12 @@
   </div> 
   <!-- CONTENT -->
    <div class="row empty">
-      <div class="sixcol">
+    <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow front_image" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
+            <img class="shadow" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
           </a>
-          <figcaption class="caption">Großer Garten2012</figcaption>
+          <figcaption class="caption">Großer Garten</figcaption>
         </figure>
       </div>
       <div class="sixcol last">

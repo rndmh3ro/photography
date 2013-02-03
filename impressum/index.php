@@ -21,7 +21,6 @@
   <!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
   <script type="text/javascript" src="../resource/js/css3-mediaqueries.js"></script>
   <!-- Webfotns -->
-  <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
   <!-- MODERNIZR -->
   <script src="../resource/js/libs/modernizr.min.js"></script>
 </head>
