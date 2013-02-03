@@ -24,7 +24,7 @@
   <div class="header">
     <header>
       <?php
-      include("header.php");
+      include("../../header.php");
       ?>
     </header>
   </div> 
@@ -44,7 +44,7 @@
   <div class="footer">
     <footer>
       <?php
-      include("footer.php");
+      include("../../footer.php");
       ?>
     </footer>
   </div>
