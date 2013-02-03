@@ -5,6 +5,7 @@
 <!--[if lte IE 9]><link rel="stylesheet" href="resource/css/ie.css" type="text/css" media="screen" /><![endif]-->
 
 <head> 
+  <script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
   <meta charset="UTF-8"> 
   <title>Sebastian Gumprich Photographie</title>
   <meta name="description" content="Sebastian Gumprich Photographie" />

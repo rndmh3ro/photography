@@ -4,53 +4,62 @@
 <!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
 <!--[if lte IE 9]><link rel="stylesheet" href="resource/css/ie.css" type="text/css" media="screen" /><![endif]-->
 
-
 <head> 
-  <meta charset="UTF-8"> 
-  
-  <!-- TITLE -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
   <title>Sebastian Gumprich Photographie</title>
-  
-  <!-- META -->
   <meta name="description" content="Sebastian Gumprich Photographie" />
-  
-  <!-- STYLES -->
-
-  <!-- The 1140px Grid - http://cssgrid.net/ -->
-  <link rel="stylesheet" href="../../resource/css/1140.css" type="text/css" media="screen" />
-  <!-- my styles -->
-  <link rel="stylesheet" href="../../resource/css/style.css" type="text/css" media="screen" />
-  <!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
-  <script type="text/javascript" src="../../resource/js/css3-mediaqueries.js"></script>
-  <!-- Webfotns -->
+  <script src="../../resource/js/libs/jquery-1.8.3.min.js"></script>
   <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
-  <!-- MODERNIZR -->
-  <script src="../../resource/js/libs/modernizr.min.js"></script>  </head>
-
-  <body>
-    <!-- HEADER -->
-    <div class="header">
-      <header>
-        <?php
-        include("../../header.php");
-        ?>
-      </header>
-    </div> 
-    <!-- CONTENT -->
-    <!-- FOOTER -->
-    <div class="footer">
-      <footer>
-        <?php
-        include("../../footer.php");
-        ?>
-      </footer>
-    </div>
+  <link rel="stylesheet" href="../../resource/css/fancybox/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
+  <script type="text/javascript" src="../../resource/js/jquery.fancybox.pack.js?v=2.1.4"></script>
+  <link rel="stylesheet" href="../../resource/css/1140.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="../../resource/css/style.css" type="text/css" media="screen" />
+  <script type="text/javascript" src="../../resource/js/libs/css3-mediaqueries.js"></script>
+  <script src="../../resource/js/libs/modernizr.min.js"></script>
+</head>
+<body class="fade_in">
+    <script type="text/javascript">
+  $(document).ready(function() {
+    $(".fancybox").fancybox();
+  });
+</script>
+    <div class="wrap"> 
+  <!-- HEADER -->
+  <div class="header">
+    <header>
+      <?php
+      include("../../header.php");
+      ?>
+    </header>
+  </div> 
+  <!-- CONTENT -->
+ 
+  <div class="row empty">
+      <div class="sixcol">
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3585.jpg"><img class="shadow thumb" src="tn/tn_IMG_3585.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
+      </div>
+      <div class="sixcol last">
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3587.jpg"><img class="shadow thumb" src="tn/tn_IMG_3587.jpg" alt="Girl in Dresden Grosser Garten"></a></div>
+      </div>
   </div>
-  <!-- SCRIPTS -->
-  <script src="http://code.jquery.com/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="../../resource/js/libs/jquery-1.8.3.min.js">\x3C/script>')</script>
-  <!--[if (gte IE 6)&(lte IE 8)]><script src="resource/js/libs/selectivizr.min.js"></script><![endif]-->
-  <script src="../../resource/js/plugins.js"></script>
-  <script src="../../resource/js/global.js"></script>
+      <div class="row empty">
+      <div class="sixcol">
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3739.jpg"><img class="shadow thumb" src="tn/tn_IMG_3739.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
+      </div>
+      <div class="sixcol last">
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="shadow thumb" src="tn/tn_IMG_3762.jpg" alt="Girl in Dresden Grosser Garten"></a></div>
+      </div>
+    </div>   
+    <div class="push"></div>
+  </div>
+  <!-- FOOTER -->
+  <div class="footer">
+    <footer>
+      <?php
+      include("../../footer.php");
+      ?>
+    </footer>
+  </div>
+<!--[if (gte IE 6)&(lte IE 8)]><script src="resource/js/libs/selectivizr.min.js"></script><![endif]-->
 </body>
 </html>
