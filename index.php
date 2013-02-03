@@ -15,6 +15,7 @@
   <script src="../resource/js/libs/modernizr.min.js"></script>
 </head>
 <body class="fade_in">
+  
     <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
