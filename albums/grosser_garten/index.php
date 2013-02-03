@@ -33,13 +33,13 @@
     </header>
   </div> 
   <!-- CONTENT -->
-   <div class="row empty">
+ 
+  <div class="row empty">
       <div class="sixcol">
         <div class="center"><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
       </div>
       <div class="sixcol last">
         <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="shadow thumb" src="tn/tn_IMG_5514.jpg" alt="Girl in Dresden Grosser Garten"></a></div>
-      </div>
       </div>
     </div>
     <div class="push"></div>
