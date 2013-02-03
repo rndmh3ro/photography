@@ -4,7 +4,7 @@
 <!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
 <!--[if lte IE 9]><link rel="stylesheet" href="resource/css/ie.css" type="text/css" media="screen" /><![endif]-->
 
-<head> 
+  <head> 
   <meta charset="UTF-8"> 
   <title>Sebastian Gumprich Photographie</title>
   <script src="../../resource/js/libs/jquery-1.8.3.min.js"></script>
@@ -19,17 +19,12 @@
 </head>
 
 <body class="fade_in">
-  <script type="text/javascript">
-  $(document).ready(function() {
-    $(".fancybox").fancybox();
-  });
-</script>
     <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
     <header>
       <?php
-      include("../../header.php");
+      include("header.php");
       ?>
     </header>
   </div> 
@@ -49,11 +44,10 @@
   <div class="footer">
     <footer>
       <?php
-      include("../../footer.php");
+      include("footer.php");
       ?>
     </footer>
   </div>
-</div>
 <!--[if (gte IE 6)&(lte IE 8)]><script src="resource/js/libs/selectivizr.min.js"></script><![endif]-->
 </body>
 </html>
