@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="../resource/css/style.css" type="text/css" media="screen" />
   <script type="text/javascript" src="../resource/js/libs/css3-mediaqueries.js"></script>
   <script src="../resource/js/libs/modernizr.min.js"></script>
+  <link rel="stylesheet" href="../../resource/css/hint.min.css">
 </head>
 <body class="fade_in">
 
@@ -29,7 +30,7 @@
     <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
+            <img class="shadow" src="albums/grosser_garten/tn/tn_IMG_5513.jpg" />
           </a>
           <figcaption class="caption">Großer Garten</figcaption>
         </figure>
