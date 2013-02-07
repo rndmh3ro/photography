@@ -18,11 +18,7 @@
   <link rel="stylesheet" href="../../resource/css/hint.min.css">
 </head>
 <body class="fade_in">
-    <script type="text/javascript">
-  $(document).ready(function() {
-    $(".fancybox").fancybox();
-  });
-</script>
+    <script type="text/javascript">$(document).ready(function() {$(".fancybox").fancybox();});</script>
     <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
@@ -33,7 +29,7 @@
     </header>
   </div> 
   <!-- CONTENT -->
-  <div class="row empty">
+    <div class="row empty">
       <div class="sixcol">
         <div class="center"><a class="fancybox" rel="group" href="IMG_3585.jpg"><img class="shadow thumb" src="tn/tn_IMG_3585.jpg" alt="Beach and Brickwall"></a></div>
       </div>
@@ -41,16 +37,16 @@
         <div class="center"><a class="fancybox" rel="group" href="IMG_3587.jpg"><img class="shadow thumb" src="tn/tn_IMG_3587.jpg" alt="Beach with waves"></a></div>
       </div>
   </div>
-      <div class="row empty">
+    <div class="row empty">
       <div class="sixcol">
         <div class="center"><a class="fancybox" rel="group" href="IMG_3739.jpg"><img class="shadow thumb" src="tn/tn_IMG_3739.jpg" alt="An old castle"></a></div>
       </div>
       <div class="sixcol last">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="shadow thumb" src="tn/tn_IMG_3762.jpg" alt="Girl with boots in her hands"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="shadow thumb" src="tn/tn_IMG_3762.jpg" alt="Girl with boots in her hand"></a></div>
       </div>
-    </div>   
-    <div class="push"></div>
+    </div>
   </div>
+    <div class="push"></div>
   <!-- FOOTER -->
   <div class="footer">
     <footer>

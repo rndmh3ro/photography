@@ -18,11 +18,7 @@
   <link rel="stylesheet" href="../../resource/css/hint.min.css">
 </head>
 <body class="fade_in">
-    <script type="text/javascript">
-  $(document).ready(function() {
-    $(".fancybox").fancybox();
-  });
-</script>
+    <script type="text/javascript">$(document).ready(function() {$(".fancybox").fancybox();});</script>
     <div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
@@ -33,12 +29,12 @@
     </header>
   </div> 
   <!-- CONTENT -->
-  <div class="row empty">
+    <div class="row empty">
       <div class="sixcol">
         <figure class="center">
            <div class="center"><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a>
            </div>
-          <figcaption class="caption">by <a class="samelink hint hint--top" data-hint="Facebook Hobboyfotografie" href="https://www.facebook.com/pages/Hobbyfotografie/493198650697175">Anke Fettke</a>
+          <figcaption class="caption">by <a class="samelink hint hint--top" data-hint="Facebook Hobbyfotografie" href="https://www.facebook.com/pages/Hobbyfotografie/493198650697175">Anke Fettke</a>
           </figcaption>
         </figure>
       </div>
@@ -47,8 +43,8 @@
         </div>
       </div>
     </div>
-   <div class="push"></div>
   </div>
+   <div class="push"></div>
   <!-- FOOTER -->
   <div class="footer">
     <footer>
