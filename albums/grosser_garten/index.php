@@ -18,7 +18,7 @@
 </head>
 <body class="fade_in">
     <script type="text/javascript">$(document).ready(function() {$(".fancybox").fancybox();});</script>
-    <div class="wrap"> 
+<div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
     <header>

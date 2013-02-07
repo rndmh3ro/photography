@@ -1,6 +1,6 @@
 <ul>
 	<li>
-		<a class="samelink" href="../impressum/index.php">Impressum</a>
+		<a class="samelink" href="./impressum/index.php">Impressum</a>
 	</li>
 	<li>
 		<a class="samelink hint hint--top" data-hint="Kontaktieren Sie mich per E-Mail" href="mailto:sebastian.gumprich@38.de">Kontakt</a>

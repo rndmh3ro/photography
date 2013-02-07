@@ -15,7 +15,7 @@
 </head>
 <body class="fade_in">
 
-    <div class="wrap"> 
+<div class="wrap"> 
   <!-- HEADER -->
   <div class="header">
     <header>
