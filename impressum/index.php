@@ -5,26 +5,13 @@
 
 <head> 
   <meta charset="UTF-8"> 
-  
-  <!-- TITLE -->
   <title>Sebastian Gumprich Photographie</title>
-  
-  <!-- META -->
   <meta name="description" content="Sebastian Gumprich Photographie" />
-  
-  <!-- STYLES -->
-
-  <!-- The 1140px Grid - http://cssgrid.net/ -->
   <link rel="stylesheet" href="../resource/css/1140.css" type="text/css" media="screen" />
-  <!-- my styles -->
   <link rel="stylesheet" href="../resource/css/style.css" type="text/css" media="screen" />
-  <!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
-  <script type="text/javascript" src="../resource/js/css3-mediaqueries.js"></script>
-  <!-- Webfotns -->
-  <!-- MODERNIZR -->
+  <script type="text/javascript" src="../resource/js/libs/css3-mediaqueries.js"></script>
   <script src="../resource/js/libs/modernizr.min.js"></script>
 </head>
-
 <body>
       <div class="wrap"> 
     <!-- HEADER -->
@@ -51,8 +38,8 @@
         </div>
         <div class="threecol .last"></div>
       </div>
-      <div class="push"></div>
     </div>
+      <div class="push"></div>
     <!-- FOOTER -->
     <div class="footer">
       <footer>
@@ -61,11 +48,6 @@
         ?>
       </footer>
     </div>
-  <!-- SCRIPTS -->
-  <script src="http://code.jquery.com/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="../resource/js/libs/jquery-1.8.3.min.js">\x3C/script>')</script>
   <!--[if (gte IE 6)&(lte IE 8)]><script src="resource/js/libs/selectivizr.min.js"></script><![endif]-->
-  <script src="../resource/js/plugins.js"></script>
-  <script src="../resource/js/global.js"></script>
 </body>
 </html>

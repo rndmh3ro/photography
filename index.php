@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="../resource/css/style.css" type="text/css" media="screen" />
   <script type="text/javascript" src="../resource/js/libs/css3-mediaqueries.js"></script>
   <script src="../resource/js/libs/modernizr.min.js"></script>
-  <link rel="stylesheet" href="../../resource/css/hint.min.css">
 </head>
 <body class="fade_in">
 
@@ -44,8 +43,8 @@
         </figure>
       </div>
     </div>
- </div>
     <div class="push"></div>
+    </div>
   <!-- FOOTER -->
   <div class="footer">
     <footer>

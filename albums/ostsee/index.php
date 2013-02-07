@@ -15,7 +15,6 @@
   <link rel="stylesheet" href="../../resource/css/style.css" type="text/css" media="screen" />
   <script type="text/javascript" src="../../resource/js/libs/css3-mediaqueries.js"></script>
   <script src="../../resource/js/libs/modernizr.min.js"></script>
-  <link rel="stylesheet" href="../../resource/css/hint.min.css">
 </head>
 <body class="fade_in">
     <script type="text/javascript">$(document).ready(function() {$(".fancybox").fancybox();});</script>
@@ -45,8 +44,8 @@
         <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="shadow thumb" src="tn/tn_IMG_3762.jpg" alt="Girl with boots in her hand"></a></div>
       </div>
     </div>
-  </div>
     <div class="push"></div>
+  </div>
   <!-- FOOTER -->
   <div class="footer">
     <footer>
