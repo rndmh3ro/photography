@@ -35,18 +35,18 @@
   <!-- CONTENT -->
   <div class="row empty">
       <div class="sixcol">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3585.jpg"><img class="shadow thumb" src="tn/tn_IMG_3585.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3585.jpg"><img class="shadow thumb" src="tn/tn_IMG_3585.jpg" alt="Beach and Brickwall"></a></div>
       </div>
       <div class="sixcol last">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3587.jpg"><img class="shadow thumb" src="tn/tn_IMG_3587.jpg" alt="Girl in Dresden Grosser Garten"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3587.jpg"><img class="shadow thumb" src="tn/tn_IMG_3587.jpg" alt="Beach with waves"></a></div>
       </div>
   </div>
       <div class="row empty">
       <div class="sixcol">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3739.jpg"><img class="shadow thumb" src="tn/tn_IMG_3739.jpg" alt="Boy in Dresden Grosser Garten"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3739.jpg"><img class="shadow thumb" src="tn/tn_IMG_3739.jpg" alt="An old castle"></a></div>
       </div>
       <div class="sixcol last">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="shadow thumb" src="tn/tn_IMG_3762.jpg" alt="Girl in Dresden Grosser Garten"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="shadow thumb" src="tn/tn_IMG_3762.jpg" alt="Girl with boots in her hands"></a></div>
       </div>
     </div>   
     <div class="push"></div>

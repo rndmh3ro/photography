@@ -30,7 +30,7 @@
     <div class="sixcol">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow" src="albums/grosser_garten/tn/tn_IMG_5513.jpg" />
+            <img class="shadow front_image" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
           </a>
           <figcaption class="caption">Großer Garten</figcaption>
         </figure>
@@ -38,7 +38,7 @@
       <div class="sixcol last">
         <figure class="center">
           <a class="samelink" href="albums/ostsee/index.php">
-            <img class="shadow" src="albums/ostsee/tn/tn_IMG_3585.jpg" />
+            <img class="shadow front_image" src="albums/ostsee/tn/tn_IMG_3762.jpg" />
           </a>
           <figcaption class="caption">Ostsee 2012</figcaption>
         </figure>
