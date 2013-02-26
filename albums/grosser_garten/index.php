@@ -16,7 +16,7 @@
   <script type="text/javascript" src="../../resource/js/libs/css3-mediaqueries.js"></script>
   <script src="../../resource/js/libs/modernizr.min.js"></script>
 </head>
-<body class="fade_in">
+<body>
     <script type="text/javascript">$(document).ready(function() {$(".fancybox").fancybox();});</script>
 <div class="wrap"> 
   <!-- HEADER -->
@@ -28,21 +28,19 @@
     </header>
   </div> 
   <!-- CONTENT -->
-    <div class="row empty">
-      <div class="sixcol">
+    <div class="container_12 fade_in">
+      <div class="grid_6">
         <figure class="center">
-           <div class="center"><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a>
+           <div><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="shadow thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a>
            </div>
-          <figcaption class="caption">by <a class="samelink hint hint--top" data-hint="Facebook Hobbyfotografie" href="https://www.facebook.com/pages/Hobbyfotografie/493198650697175">Anke Fettke</a>
-          </figcaption>
+          <figcaption class="caption">by Anke Fettke</figcaption>
         </figure>
       </div>
-      <div class="sixcol last">
+      <div class="grid_6">
         <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="shadow thumb" src="tn/tn_IMG_5514.jpg" alt="Girl in Dresden Grosser Garten"></a>
         </div>
       </div>
     </div>
-   <div class="push"></div>
   </div>
   <!-- FOOTER -->
   <div class="footer">

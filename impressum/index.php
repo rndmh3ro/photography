@@ -23,10 +23,8 @@
       </header>
     </div> 
     <!-- CONTENT -->
-      <div class="row">
-        <div class="threecol">
-        </div>
-        <div class="sixcol empty">
+      <div class="container_12">
+        <div class="grid_12">
           <h3> Impressum </h3> <br>
           <p>Angaben gemäß § 5 TMG:<br> <br>
             Sebastian Gumprich<br>
@@ -34,12 +32,9 @@
             01127 Dresden<br>
             <a href=mailto="sebastian.gumprich@38.de">sebastian.gumprich@38.de</a>
           </p>
-
         </div>
-        <div class="threecol .last"></div>
       </div>
     </div>
-      <div class="push"></div>
     <!-- FOOTER -->
     <div class="footer">
       <footer>

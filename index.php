@@ -13,7 +13,7 @@
   <script type="text/javascript" src="../resource/js/libs/css3-mediaqueries.js"></script>
   <script src="../resource/js/libs/modernizr.min.js"></script>
 </head>
-<body class="fade_in">
+<body>
 
 <div class="wrap"> 
   <!-- HEADER -->
@@ -25,8 +25,8 @@
     </header>
   </div> 
   <!-- CONTENT -->
-    <div class="row empty">
-      <div class="sixcol">
+    <div class="container_12 fade_in">
+      <div class="grid_6">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
             <img class="shadow front_image" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
@@ -34,7 +34,7 @@
           <figcaption class="caption">Großer Garten</figcaption>
         </figure>
       </div>
-      <div class="sixcol last">
+      <div class="grid_6">
         <figure class="center">
           <a class="samelink" href="albums/ostsee/index.php">
             <img class="shadow front_image" src="albums/ostsee/tn/tn_IMG_3762.jpg" />
