@@ -1,1 +1,297 @@
-html,body{background-image:url(../images/background.png);font-family:Helvetica,Arial,sans-serif;font-size:100%;height:100%;line-height:1.5;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}*{margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}code,kbd,pre,samp{font-family:monospace,serif;font-size:1em}pre{white-space:pre-wrap}q{quotes:"\201C" "\201D" "\2018" "\2019"}small{font-size:80%}img{border:0}svg:not(:root){overflow:hidden}button[disabled],html input[disabled]{cursor:default}.header h1{font-size:3em;text-decoration:none;padding:.6em;text-align:center;padding-bottom:20px}.header a,.header a:link,.header a:visited,.header a:focus,.header a:hover,.header a:active{color:#000;text-decoration:none;line-height:1em}.center{text-align:center}.wrap{min-height:100%;height:auto!important;height:100%;margin:0 auto -2em}.footer .push{height:2em;clear:both}@keyframes fade_in{from{opacity:0}to{opacity:1}}@-moz-keyframes fade_in{from{opacity:0}to{opacity:1}}@-webkit-keyframes fade_in{from{opacity:0}to{opacity:1}}@-o-keyframes fade_in{from{opacity:0}to{opacity:1}}.fade_in{animation:fade_in 3s;-moz-animation:fade_in 3s;-webkit-animation:fade_in 3s;-o-animation:fade_in 3s}.footer{bottom:0;width:100%;height:20px;text-align:center;font-size:1em;color:#444;clear:both;float:left}.footer li{display:inline;padding-right:1.75em}.caption{margin-top:1.5em}img.thumb{height:auto 100%;width:100%;display:block;margin-left:auto;margin-right:auto;margin:1em;box-shadow:0 2px 10px -2px #444}a.samelink,a.samelink:link,a.samelink:visited,a.samelink:focus,a.samelink:hover,a.samelink:active{color:#444;text-decoration:none}a:focus{outline:thin dotted}a:active,a:hover{outline:0}
+/* -------------------------------------------------------------- 
+  
+Site Name: sebastian-gumprich.de
+Description: Photographie
+Author: Sebastian Gumprich
+Copyright (c):
+
+-------------------------------------------------------------- */
+/* --------------------------------------------------------------
+  
+
+-------------------------------------------------------------- */
+/* --------------------------------------------------------------
+  
+[1*] Base Styles
+
+-------------------------------------------------------------- */
+html,body {
+background-image:url(../images/background.png);
+font-family:Helvetica, Arial, sans-serif;
+font-size:100%;
+height: 100%;
+line-height: 1.5;
+-webkit-text-size-adjust: 100%; /* prevent iOS text size adjust after orientation change, without disabling user zoom. */
+-ms-text-size-adjust: 100%; /* prevent iOS text size adjust after orientation change, without disabling user zoom. */
+}
+
+* {
+margin:0;
+padding:0;
+}
+
+/**
+ * Correct `block` display not defined in IE 8/9.
+ */
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
+display:block;
+}
+
+
+/**
+ * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+
+b,
+strong {
+    font-weight: bold;
+}
+
+/**
+ * Address styling not present in Safari 5 and Chrome.
+ */
+
+dfn {
+    font-style: italic;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+
+hr {
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 0;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+/**
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    font-size: 1em;
+}
+
+/**
+ * Improve readability of pre-formatted text in all browsers.
+ */
+
+pre {
+    white-space: pre-wrap;
+}
+
+/**
+ * Set consistent quote types.
+ */
+
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+
+small {
+    font-size: 80%;
+}
+
+/**
+ * Remove border when inside `a` element in IE 8/9.
+ */
+
+img {
+    border: 0;
+}
+
+/**
+ * Correct overflow displayed oddly in IE 9.
+ */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled],
+html input[disabled] {
+    cursor: default;
+}
+
+/* --------------------------------------------------------------
+  
+[3*] Header Styles
+
+-------------------------------------------------------------- */
+.header h1 {
+font-size:3em;
+text-decoration:none;
+padding:.6em;
+text-align:center;
+padding-bottom:20px;
+}
+
+.header a,.header a:link,.header a:visited,.header a:focus,.header a:hover,.header a:active {
+color:#000;
+text-decoration:none;
+line-height:1em;
+}
+
+/* --------------------------------------------------------------
+  
+[4*] Content Styles
+
+-------------------------------------------------------------- */
+.center {
+text-align:center;
+}
+
+/* Wrapper for page content to push down footer */
+ .wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by it's height */
+    margin: 0 auto -2em;
+
+}
+/* Set the fixed height of the footer here */
+ .footer .push {
+    height: 2em;
+    clear: both;
+}
+
+
+ @keyframes fade_in
+{
+from {opacity:0;}
+to {opacity:1;}
+}
+
+
+@-moz-keyframes fade_in /* Firefox */
+{
+from {opacity:0;}
+to {opacity:1;}
+}
+
+@-webkit-keyframes fade_in /* Safari and Chrome */
+{
+from {opacity:0;}
+to {opacity:1;}
+}
+
+@-o-keyframes fade_in /* Opera */
+{
+from {opacity:0;}
+to {opacity:1;}
+}
+
+.fade_in {
+
+	animation: fade_in 3s;
+	-moz-animation: fade_in 3s; /* Firefox */
+	-webkit-animation: fade_in 3s; /* Safari and Chrome */
+	-o-animation: fade_in 3s; /* Opera */
+}
+/* --------------------------------------------------------------
+  
+[5*] Footer Styles
+
+-------------------------------------------------------------- */
+.footer {
+bottom:0;
+width:100%;
+height:20px;
+text-align:center;
+font-size:1em;
+color:#444;
+clear: both;
+float: left;
+}
+
+.footer li {
+display:inline;
+padding-right:1.75em;
+}
+
+/* --------------------------------------------------------------
+  
+[6*] Typography Styles
+
+-------------------------------------------------------------- */
+/* --------------------------------------------------------------
+  
+[7*] Image Styles
+
+-------------------------------------------------------------- */
+
+
+.caption {
+	margin-top: 1.5em;
+}
+
+img.thumb {
+    height: auto 100%;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 1em;
+    box-shadow:0 2px 10px -2px #444;    
+}
+
+.zoom {
+    cursor:url(../images/zoom_in.ico), -moz-zoom-in;
+}
+
+/* --------------------------------------------------------------
+  
+[8*] Link Styles
+
+-------------------------------------------------------------- */
+a.samelink,a.samelink:link,a.samelink:visited,a.samelink:focus,a.samelink:hover,a.samelink:active {
+color:#444;
+text-decoration:none;
+}
+
+/**
+ * Address `outline` inconsistency between Chrome and other browsers.
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+
+a:active,
+a:hover {
+    outline: 0;
+}

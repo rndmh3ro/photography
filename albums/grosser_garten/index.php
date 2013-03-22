@@ -31,13 +31,13 @@
     <div class="container fade_in">
       <div class="grid_6">
         <figure class="center">
-           <div><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="thumb" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a>
+           <div><a class="fancybox" rel="group" href="IMG_5513.jpg"><img class="thumb zoom" src="tn/tn_IMG_5513.jpg" alt="Boy in Dresden Grosser Garten"></a>
            </div>
           <figcaption class="caption">by Anke Fettke</figcaption>
         </figure>
       </div>
       <div class="grid_6">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="thumb" src="tn/tn_IMG_5514.jpg" alt="Girl in Dresden Grosser Garten"></a>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_5514.jpg"><img class="thumb zoom" src="tn/tn_IMG_5514.jpg" alt="Girl in Dresden Grosser Garten"></a>
         </div>
       </div>
     </div>

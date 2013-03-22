@@ -30,21 +30,21 @@
   <!-- CONTENT -->
     <div class="container fade_in">
       <div class="grid_4">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_8364.jpg"><img class="thumb" src="tn/tn_IMG_8364.jpg" alt="Beach and Brickwall"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_8364.jpg"><img class="thumb zoom" src="tn/tn_IMG_8364.jpg" alt="Beach and Brickwall"></a></div>
       </div>
       <div class="grid_4">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_8374.jpg"><img class="thumb" src="tn/tn_IMG_8374.jpg" alt="Beach with waves"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_8374.jpg"><img class="thumb zoom" src="tn/tn_IMG_8374.jpg" alt="Beach with waves"></a></div>
       </div>
       <div class="grid_4">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_8376.jpg"><img class="thumb" src="tn/tn_IMG_8376.jpg" alt="Beach and Brickwall"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_8376.jpg"><img class="thumb zoom" src="tn/tn_IMG_8376.jpg" alt="Beach and Brickwall"></a></div>
       </div>
   </div>
     <div class="container fade_in">
       <div class="grid_6">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_8436.jpg"><img class="thumb" src="tn/tn_IMG_8436.jpg" alt="Beach and Brickwall"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_8436.jpg"><img class="thumb zoom" src="tn/tn_IMG_8436.jpg" alt="Beach and Brickwall"></a></div>
       </div>
       <div class="grid_6">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_8445.jpg"><img class="thumb" src="tn/tn_IMG_8445.jpg" alt="Beach with waves"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_8445.jpg"><img class="thumb zoom" src="tn/tn_IMG_8445.jpg" alt="Beach with waves"></a></div>
       </div>
   </div>
     <div class="push"> </div>
