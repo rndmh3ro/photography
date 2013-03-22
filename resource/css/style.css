@@ -37,15 +37,6 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 display:block;
 }
 
-/**
- * Address variable `h1` font-size and margin within `section` and `article`
- * contexts in Firefox 4+, Safari 5, and Chrome.
- */
-
-h1 {
-    font-size: 2em;
-    margin: 0.67em 0;
-}
 
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
@@ -185,11 +176,13 @@ text-align:center;
     height: auto !important;
     height: 100%;
     /* Negative indent footer by it's height */
-    margin: 0 auto -20px;
+    margin: 0 auto -2em;
+
 }
 /* Set the fixed height of the footer here */
- .push {
-    height: 20px;
+ .footer .push {
+    height: 2em;
+    clear: both;
 }
 
 
@@ -237,6 +230,8 @@ height:20px;
 text-align:center;
 font-size:1em;
 color:#444;
+clear: both;
+float: left;
 }
 
 .footer li {
@@ -254,26 +249,20 @@ padding-right:1.75em;
 [7*] Image Styles
 
 -------------------------------------------------------------- */
-.shadow {
-box-shadow:0 2px 10px -2px #444;
-}
+
 
 .caption {
 	margin-top: 1.5em;
 }
 
-.front_image {
-
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
 img.thumb {
+    height: auto 100%;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin: 1em;
+    box-shadow:0 2px 10px -2px #444;
 }
 
 /* --------------------------------------------------------------

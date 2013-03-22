@@ -25,26 +25,34 @@
     </header>
   </div> 
   <!-- CONTENT -->
-    <div class="container_12 fade_in">
-      <div class="grid_6">
+    <div class="container fade_in">
+      <div class="grid_4">
         <figure class="center">
           <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="shadow front_image" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
+            <img class="thumb" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
           </a>
           <figcaption class="caption">Großer Garten</figcaption>
         </figure>
       </div>
-      <div class="grid_6">
+      <div class="grid_4">
         <figure class="center">
           <a class="samelink" href="albums/ostsee/index.php">
-            <img class="shadow front_image" src="albums/ostsee/tn/tn_IMG_3762.jpg" />
+            <img class="thumb" src="albums/ostsee/tn/tn_IMG_3762.jpg" />
           </a>
           <figcaption class="caption">Ostsee 2012</figcaption>
         </figure>
       </div>
+      <div class="grid_4">
+        <figure class="center">
+          <a class="samelink" href="albums/plaetzchen/index.php">
+            <img class="thumb" src="albums/plaetzchen/tn/tn_IMG_8364.jpg" />
+          </a>
+          <figcaption class="caption">Plätzchen Winter 2012</figcaption>
+        </figure>
+      </div>
     </div>
     <div class="push"></div>
-    </div>
+</div>
   <!-- FOOTER -->
   <div class="footer">
     <footer>
