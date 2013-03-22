@@ -23,8 +23,8 @@
       </header>
     </div> 
     <!-- CONTENT -->
-      <div class="container_12">
-        <div class="grid_12">
+      <div class="container">
+        <div class="grid_6">
           <h3> Impressum </h3> <br>
           <p>Angaben gemäß § 5 TMG:<br> <br>
             Sebastian Gumprich<br>
