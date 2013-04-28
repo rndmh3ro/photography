@@ -38,10 +38,10 @@
   </div>
     <div class="container fade_in">
       <div class="grid_6">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3739.jpg"><img class="thumb zoom" src="tn/tn_IMG_3739.jpg" alt="Beach with waves"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3739.jpg"><img class="thumb zoom" src="tn/tn_IMG_3739.jpg" alt="Old castle"></a></div>
     </div>
       <div class="grid_6">
-        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="thumb zoom" src="tn/tn_IMG_3762.jpg" alt="Beach with waves"></a></div>
+        <div class="center"><a class="fancybox" rel="group" href="IMG_3762.jpg"><img class="thumb zoom" src="tn/tn_IMG_3762.jpg" alt="Girl on beach"></a></div>
     </div>
   </div>
     <div class="push"> </div>
