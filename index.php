@@ -54,10 +54,10 @@
     <div class="container fade_in">
       <div class="grid_4">
         <figure class="center">
-          <a class="samelink" href="albums/girl/index.php">
-            <img class="thumb" src="albums/girl/tn/tn_IMG_9484.jpg" />
+          <a class="samelink" href="albums/mädchen/index.php">
+            <img class="thumb" src="albums/mädchen/tn/tn_IMG_9484.jpg" />
           </a>
-          <figcaption class="caption">Girl</figcaption>
+          <figcaption class="caption">mädchen</figcaption>
         </figure>
       </div>
     </div>
