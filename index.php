@@ -57,7 +57,7 @@
           <a class="samelink" href="albums/mädchen/index.php">
             <img class="thumb" src="albums/mädchen/tn/tn_IMG_9484.jpg" />
           </a>
-          <figcaption class="caption">mädchen</figcaption>
+          <figcaption class="caption">Mädchen</figcaption>
         </figure>
       </div>
     </div>
