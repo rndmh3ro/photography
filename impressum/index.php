@@ -28,7 +28,7 @@
           <h3> Impressum </h3> <br>
           <p>Angaben gemäß § 5 TMG:<br> <br>
             Sebastian Gumprich<br>
-            Mohnstr. 31 <br> 
+            Altpieschen<br> 
             01127 Dresden<br>
             <a href=mailto="sebastian.gumprich@38.de">sebastian.gumprich@38.de</a>
           </p>
