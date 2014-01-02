@@ -28,14 +28,6 @@
     <div class="container fade_in">
       <div class="grid_4">
         <figure class="center">
-          <a class="samelink" href="albums/grosser_garten/index.php">
-            <img class="thumb" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
-          </a>
-          <figcaption class="caption">Großer Garten</figcaption>
-        </figure>
-      </div>
-      <div class="grid_4">
-        <figure class="center">
           <a class="samelink" href="albums/ostsee/index.php">
             <img class="thumb" src="albums/ostsee/tn/tn_IMG_3762.jpg" />
           </a>
@@ -49,6 +41,14 @@
           </a>
           <figcaption class="caption">Plätzchen Winter 2012</figcaption>
         </figure>
+      <div class="grid_4">
+        <figure class="center">
+          <a class="samelink" href="albums/grosser_garten/index.php">
+            <img class="thumb" src="albums/grosser_garten/tn/tn_IMG_5514.jpg" />
+          </a>
+          <figcaption class="caption">Großer Garten</figcaption>
+        </figure>
+      </div>
       </div>
     </div>
     <div class="container fade_in">
@@ -56,6 +56,15 @@
         <figure class="center">
           <a class="samelink" href="albums/mädchen/index.php">
             <img class="thumb" src="albums/mädchen/tn/tn_IMG_9484.jpg" />
+          </a>
+          <figcaption class="caption">Mädchen</figcaption>
+        </figure>
+      </div>
+          <div class="container fade_in">
+      <div class="grid_4">
+        <figure class="center">
+          <a class="samelink" href="albums/sixties/index.php">
+            <img class="thumb" src="albums/sixties/tn/tn_IMG_9666.jpg" />
           </a>
           <figcaption class="caption">Mädchen</figcaption>
         </figure>
