@@ -70,7 +70,9 @@
         </figure>
       </div>
     </div>
+</div>
     <div class="push"></div>
+
 </div>
   <!-- FOOTER -->
   <div class="footer">
