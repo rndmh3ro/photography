@@ -64,7 +64,7 @@
       <div class="grid_4">
         <figure class="center">
           <a class="samelink" href="albums/sixties/index.php">
-            <img class="thumb" src="albums/sixties/tn/tn_IMG_9666.jpg" />
+            <img class="thumb" src="albums/sixties/tn/tn_IMG_9770.jpg" />
           </a>
           <figcaption class="caption">Sixties</figcaption>
         </figure>
