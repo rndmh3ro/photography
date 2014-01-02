@@ -66,7 +66,7 @@
           <a class="samelink" href="albums/sixties/index.php">
             <img class="thumb" src="albums/sixties/tn/tn_IMG_9666.jpg" />
           </a>
-          <figcaption class="caption">Mädchen</figcaption>
+          <figcaption class="caption">Sixties</figcaption>
         </figure>
       </div>
     </div>
